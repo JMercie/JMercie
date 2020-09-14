@@ -19,4 +19,4 @@ Hi there, I'm **Joseph Mercie**, a **Salesforce developer**. Currently, I'm a sa
 - 📫 Please email at themercie@gmail.com to reach me.
 
 
-![JMercie's github stats](https://github-readme-stats.vercel.app/api?username=callJMercie&show_icons=true&hide_border=true)
+![JMercie's github stats](https://github-readme-stats.vercel.app/api?username=JMercie&show_icons=true&hide_border=true)
